@@ -1,5 +1,5 @@
 <h2 align="center" font-weight="bold">
-🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am Rabih Sadi, a masterful sorcerer of FRONT-END magic and FULL-STACK alchemy. Prepare to be spellbound as we embark on an extraordinary journey through the realms of web development! 
+🌟✨ Welcome to the realm of digital enchantment! ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am a masterful sorcerer of FRONT-END magic and FULL-STACK alchemy. Prepare to be spellbound as we embark on an extraordinary journey through the realms of web development! 
 </h2>
 
 <h1>🧙‍♀️ About Me</h1>
@@ -172,7 +172,7 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   
   
  
-
+<!--
 <h1 font-weight="bold">
   📮 How to reach me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
@@ -193,12 +193,12 @@ Together, let's shape a digital landscape that radiates with wonder and awe!
   </a>
   <a href="https://www.linkedin.com/in/rabih-sadi/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-<!--   <a href="https://twitter.com/AndyChris9474">
+  </a> 
+  <a href="https://twitter.com/AndyChris9474">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a> -->
+  </a> 
 
-</p>
+</p> -->
  
   
   
